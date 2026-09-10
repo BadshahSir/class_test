@@ -1,0 +1,3 @@
+def calculation:
+    a+b
+    

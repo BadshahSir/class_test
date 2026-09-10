@@ -1,0 +1,11 @@
+id,name,salary,city
+1,Rahul,50000,Delhi
+2,Amit,60000,Mumbai
+3,Priya,70000,Pune
+4,Rohan,,Patna
+5,Sneha,abc,Kolkata
+6,Ankit,55000
+7,Neha,65000,Lucknow,ExtraColumn
+8,,45000,Jaipur
+9,Vikas,NULL,Bhopal
+10,Riya,72000,Chennai
